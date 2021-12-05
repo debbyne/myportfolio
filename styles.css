@@ -59,7 +59,7 @@ body{
       list-style: none;
   }
   .hack{
-      border: 0px solid black;
+      border: 0px  black;
       border-radius: 10%;
       height: 450px;
       width: 600px;
