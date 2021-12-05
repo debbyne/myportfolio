@@ -52,6 +52,9 @@ body{
      padding-bottom: 70px;
 
   }
+  .interests{
+    background-color: rgb(3, 20, 3);
+  }
   .hack{
       border: 0px solid black;
       border-radius: 10%;
@@ -64,14 +67,16 @@ body{
      display: flex; 
      justify-content: space-evenly;
      text-align: center;
+    
   }
 .projects{
 padding-top: 350px;
-background-color: rgb(12, 10, 10);
+
 display: flex;
 
 }
 .burger{
+    background-color: rgb(3, 10, 3);
    border: 0px solid black; 
    padding-right: 60px;
    transition: all .4s;
@@ -86,6 +91,7 @@ display: flex;
    
 }
 .foot{
+    background-color: rgb(40, 80, 40);
     padding-top: 100px;
     text-align: center;
 }
@@ -100,6 +106,6 @@ display: flex;
       align-items: center;
     }
     .foot{
-      background-color:rgb(99, 97, 97);
+      background-color:rgb(61, 60, 60);
     }
   }
