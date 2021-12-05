@@ -69,3 +69,7 @@ display: flex;
     padding-top: 100px;
     text-align: center;
 }
+.imgs{
+    display: flex;
+   padding-left: 750px;
+}
