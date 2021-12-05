@@ -64,6 +64,16 @@ display: flex;
 .burger{
    border: 0px solid black; 
    padding-right: 60px;
+   transition: all .4s;
+  
+}
+.burger :hover {
+  transform: scale(1.06);
+}
+.burger a{
+    color: rgb(18, 58, 18);
+    text-decoration: none;
+   
 }
 .foot{
     padding-top: 100px;
