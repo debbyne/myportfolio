@@ -7,7 +7,7 @@ This is my own simple responsive portfolio which is a work in progress
 # Setup
  You get access  it at https://github.com/debbyne/myportfolio.git/
 # Demo
-[Live DEmo](git)
+[Live DEmo](https://debbyne.github.io/myportfolio/)
 
 # Technologies Used
 HTML
