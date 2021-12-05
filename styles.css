@@ -59,6 +59,12 @@ body{
       width: 600px;
 
   }
+  .both{
+      padding-top: 150px;
+     display: flex; 
+     justify-content: space-evenly;
+     text-align: center;
+  }
 .projects{
 padding-top: 350px;
 background-color: rgb(12, 10, 10);
