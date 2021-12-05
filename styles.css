@@ -55,6 +55,9 @@ body{
   .interests{
     background-color: rgb(3, 20, 3);
   }
+  .interests ul{
+      list-style: none;
+  }
   .hack{
       border: 0px solid black;
       border-radius: 10%;
