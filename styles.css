@@ -68,7 +68,7 @@ body{
   .both{
       padding-top: 170px;
      display: flex; 
-     justify-content: space-evenly;
+     justify-content: space-around;
      text-align: center;
     
   }
