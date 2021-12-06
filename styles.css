@@ -4,6 +4,7 @@ body{
     color: rgb(197, 188, 188);
     font-size: 50px;
  padding-left: 70px;
+ padding-right: 40px;
  background-image: url(images/code1.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
@@ -13,8 +14,11 @@ body{
   overflow: visible;
   position: absolute;
   margin-left: 1770px;
-  font-size: 60px;
+  font-size: 90px;
   height: 250px;
+}
+.dropdown-item{
+font-size: 35px;
 }
 /* .nav {
     display: flex;
