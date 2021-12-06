@@ -9,7 +9,14 @@ body{
   background-repeat: no-repeat;
   background-position: center; 
 }
-.nav {
+.dropdown{
+  overflow: visible;
+  position: absolute;
+  margin-left: 1770px;
+  font-size: 60px;
+  height: 250px;
+}
+/* .nav {
     display: flex;
     color: rgb(179, 159, 159);
     padding-left: 1300px;
@@ -30,7 +37,11 @@ body{
   .nav ul a {
     text-decoration: none;
     color: rgb(245, 248, 248);
+  } */
+  .two h1{
+    font-size: 75px;
   }
+  
   .me{
       padding-top: 230px;
       display: flex;
